@@ -1,0 +1,3 @@
+download the video file from this link -> https://www.youtube.com/watch?v=OB1g2xPmlA0&ab_channel=GadgetAddict
+
+after download give the video file name in this python file (video to image extract py file)
